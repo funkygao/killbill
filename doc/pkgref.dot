@@ -1,0 +1,8 @@
+digraph G {
+   labelloc = "t";
+   rankdir=LR;
+   splines = polyline;
+   node [shape=record];
+   edge [style = dashed, fontsize=10];
+
+}

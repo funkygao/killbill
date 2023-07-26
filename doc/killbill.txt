@@ -1,0 +1,16 @@
+标注覆盖率：Class(865/0.0%) Method(5932/0.0%) Property(3477/0.0%) Statement(8773)
+大方法Top10
+   org.killbill.billing.beatrix.extbus.BeatrixListener#computeExtBusEventEntryFromBusInternalEvent 254
+   org.killbill.billing.catalog.TestCatalogUpdater#testVerifyXML 246
+   org.killbill.billing.payment.api.TestPaymentApi#testCreateChargeback 241
+   org.killbill.billing.beatrix.integration.TestIntegrationInvoiceWithRepairLogic#testMultiplePartialRepairs 215
+   org.killbill.billing.invoice.InvoiceDispatcher#processAccountWithLockAndInputTargetDate 176
+   org.killbill.billing.invoice.dao.DefaultInvoiceDao#createInvoices 173
+   org.killbill.billing.payment.dao.TestPaymentDao#testPaymentAndTransactions 168
+   org.killbill.billing.beatrix.integration.usage.TestUnknownUsageUnits#testWithUnknownUsage 164
+   org.killbill.billing.beatrix.integration.TestIntegrationParentInvoice#testUnParentingWithUnpaidInvoice 163
+模型债：聚合分布[类:(Mean:NaN SD:NaN) 方法:(Mean:NaN SD:NaN)]
+<<用户交互>>
+<<跨聚合复杂流程>>
+<<领域事件>>
+<<相似类>>
